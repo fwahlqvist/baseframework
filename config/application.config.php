@@ -2,11 +2,12 @@
 return array(
     'modules' => array(
         'Application',
-       // 'ScnSocialAuth',
+        'ScnSocialAuth',
         'ZfcBase',
         'ZfcUser',
         'ZeTheme',
-        'BjyAuthorize',
+        //'BjyAuthorize',
+        'Article'
     ),
     'module_listener_options' => array(
         'config_glob_paths'    => array(
