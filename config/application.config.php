@@ -7,7 +7,8 @@ return array(
         'ZfcUser',
         'ZeTheme',
         //'BjyAuthorize',
-        'Article'
+        'Article',
+        'Album'
     ),
     'module_listener_options' => array(
         'config_glob_paths'    => array(
