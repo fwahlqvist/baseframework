@@ -2,11 +2,13 @@
 return array(
     'modules' => array(
         'Application',
-       // 'ScnSocialAuth',
-        'ZfcBase',
-        'ZfcUser',
-        'ZeTheme',
-        'BjyAuthorize',
+       // 'Album',
+        // 'ScnSocialAuth',
+       // 'ZfcBase',
+       // 'ZfcUser',
+       // 'ZeTheme',
+       // 'BjyAuthorize',
+       'Article'
     ),
     'module_listener_options' => array(
         'config_glob_paths'    => array(
