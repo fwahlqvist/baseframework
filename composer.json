@@ -10,6 +10,10 @@
     "require": {
         "php": ">=5.3.3",
         "zendframework/zendframework": "2.*",
-        "socalnick/scn-social-auth": "dev-master"
+        "rwoverdijk/assetmanager": "1.*",
+        "zendexperts/ze-theme": "dev-master",
+        "socalnick/scn-social-auth": "dev-master",
+        "zf-commons/zfc-user": "dev-master",
+        "zendexperts/ze-theme": "dev-master"
     }
 }

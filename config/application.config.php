@@ -1,6 +1,7 @@
 <?php
 return array(
     'modules' => array(
+        //'AssetManager',
         'Application',
         'ScnSocialAuth',
         'ZfcBase',
