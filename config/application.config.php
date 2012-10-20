@@ -3,10 +3,10 @@ return array(
     'modules' => array(
         //'AssetManager',
         'Application',
-        'ScnSocialAuth',
-        'ZfcBase',
-        'ZfcUser',
-        'ZeTheme',
+        'ZeTheme',        
+        //'ScnSocialAuth',
+        //'ZfcBase',
+        //'ZfcUser',
         //'BjyAuthorize',
         'Article',
         'Album'

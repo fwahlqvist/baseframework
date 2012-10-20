@@ -6,11 +6,11 @@ return array(
             __DIR__ . '/../../themes/'
         ),
         'routes'=>array(
-        'ZF2MobileTheme'=>array('album', 'blog')
+        'defualt'=>array('album', 'blog')
         ),
         'adapters' => array(
             'ZeTheme\Adapter\Configuration',
-             'ZeTheme\Adapter\Route',
+            'ZeTheme\Adapter\Route',
         ),
     ),
 );
