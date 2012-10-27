@@ -93,6 +93,7 @@ return array(
             'paths' => array(
                 __DIR__ . '/../../../assets',
                 __DIR__ . '/../../../assets/html5-boilerplate',
+                __DIR__ . '/../../../themes',
                 
             ),
         ),
